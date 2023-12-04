@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-linear-regression-tutorial"
+  site-url: "https://M-Chen-3.github.io/nbdev-linear-regression-tutorial"
+  description: "nbdev linear regression tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/M-Chen-3/nbdev-linear-regression-tutorial"
